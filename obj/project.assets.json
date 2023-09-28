@@ -11662,11 +11662,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3CityProvince/Lab3CityProvince.csproj",
+      "projectUniqueName": "/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3Comp4976Dotnet/Lab3CityProvince.csproj",
       "projectName": "Lab3CityProvince",
-      "projectPath": "/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3CityProvince/Lab3CityProvince.csproj",
+      "projectPath": "/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3Comp4976Dotnet/Lab3CityProvince.csproj",
       "packagesPath": "/Users/germanrandhawa/.nuget/packages/",
-      "outputPath": "/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3CityProvince/obj/",
+      "outputPath": "/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3Comp4976Dotnet/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/germanrandhawa/.nuget/NuGet/NuGet.Config"

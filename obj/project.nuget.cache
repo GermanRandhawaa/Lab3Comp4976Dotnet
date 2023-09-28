@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oqiMi9FOQI3VM/jaom78hsgMJ+VJRGEuKEv79ZKs3BLO+kz+HDAAvw2W3oU1yZPXdkbF2Mp8QfPRegt84eO7DQ==",
+  "dgSpecHash": "w6cKvAXGSgzT+ARyaDxA/6UTOlNvyU+1TjhfoO0FVY96eNyxXNdLxPJM4A1iaWV4hX2Lod6rL4D79fpyWQ9UEg==",
   "success": true,
-  "projectFilePath": "/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3CityProvince/Lab3CityProvince.csproj",
+  "projectFilePath": "/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3Comp4976Dotnet/Lab3CityProvince.csproj",
   "expectedPackageFiles": [
     "/Users/germanrandhawa/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/germanrandhawa/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",

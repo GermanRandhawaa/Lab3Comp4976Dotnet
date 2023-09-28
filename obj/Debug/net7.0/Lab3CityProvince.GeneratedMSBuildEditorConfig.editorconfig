@@ -9,85 +9,85 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Lab3CityProvince
 build_property.RootNamespace = Lab3CityProvince
-build_property.ProjectDir = /Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3CityProvince/
+build_property.ProjectDir = /Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3Comp4976Dotnet/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3CityProvince
+build_property.MSBuildProjectDirectory = /Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3Comp4976Dotnet
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3CityProvince/Areas/Identity/Pages/_ViewStart.cshtml]
+[/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3Comp4976Dotnet/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3CityProvince/Pages/CityPages/Create.cshtml]
+[/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3Comp4976Dotnet/Pages/CityPages/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2l0eVBhZ2VzL0NyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3CityProvince/Pages/CityPages/Delete.cshtml]
+[/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3Comp4976Dotnet/Pages/CityPages/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2l0eVBhZ2VzL0RlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3CityProvince/Pages/CityPages/Details.cshtml]
+[/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3Comp4976Dotnet/Pages/CityPages/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2l0eVBhZ2VzL0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3CityProvince/Pages/CityPages/Edit.cshtml]
+[/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3Comp4976Dotnet/Pages/CityPages/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2l0eVBhZ2VzL0VkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3CityProvince/Pages/CityPages/Index.cshtml]
+[/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3Comp4976Dotnet/Pages/CityPages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2l0eVBhZ2VzL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3CityProvince/Pages/Error.cshtml]
+[/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3Comp4976Dotnet/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3CityProvince/Pages/Index.cshtml]
+[/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3Comp4976Dotnet/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3CityProvince/Pages/Privacy.cshtml]
+[/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3Comp4976Dotnet/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3CityProvince/Pages/ProvincePages/Create.cshtml]
+[/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3Comp4976Dotnet/Pages/ProvincePages/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvdmluY2VQYWdlcy9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3CityProvince/Pages/ProvincePages/Delete.cshtml]
+[/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3Comp4976Dotnet/Pages/ProvincePages/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvdmluY2VQYWdlcy9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3CityProvince/Pages/ProvincePages/Details.cshtml]
+[/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3Comp4976Dotnet/Pages/ProvincePages/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvdmluY2VQYWdlcy9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3CityProvince/Pages/ProvincePages/Edit.cshtml]
+[/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3Comp4976Dotnet/Pages/ProvincePages/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvdmluY2VQYWdlcy9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3CityProvince/Pages/ProvincePages/Index.cshtml]
+[/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3Comp4976Dotnet/Pages/ProvincePages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvdmluY2VQYWdlcy9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3CityProvince/Pages/Shared/_LoginPartial.cshtml]
+[/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3Comp4976Dotnet/Pages/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3CityProvince/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3Comp4976Dotnet/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3CityProvince/Pages/_ViewImports.cshtml]
+[/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3Comp4976Dotnet/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3CityProvince/Pages/_ViewStart.cshtml]
+[/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3Comp4976Dotnet/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3CityProvince/Pages/Shared/_Layout.cshtml]
+[/Users/germanrandhawa/x/4796 Microsoft .net/labs/lab3Hosted/Lab3Comp4976Dotnet/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-sugnbxsg4q
